@@ -26,6 +26,7 @@
     label.textAlignment = NSTextAlignmentCenter;
     [self.view addSubview:label];
     [label testLabelTest];
+    [label testLabelMore];
 }
 
 - (void)didReceiveMemoryWarning
